@@ -1,3 +1,3 @@
 # TIL_BOT
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/63248e7c-6477-4489-b086-4b5b3d1ec030" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b87322a3-c144-42e2-86f0-6509b4dbad82" />
